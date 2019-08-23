@@ -4,10 +4,10 @@
 #define RS 3      // right sensor
 
 /*-------definning Outputs------*/
-#define LM1 4       // left motor
-#define LM2 5       // left motor
-#define RM1 6       // right motor
-#define RM2 7       // right motor
+#define LM1 7       // left motor
+#define LM2 6       // left motor
+#define RM1 5       // right motor
+#define RM2 4       // right motor
 
 void setup()
 {
