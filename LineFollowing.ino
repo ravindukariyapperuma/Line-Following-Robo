@@ -52,4 +52,5 @@ void loop()
     digitalWrite(RM1, LOW);
     digitalWrite(RM2, LOW);
   }
+  revase()
 }
